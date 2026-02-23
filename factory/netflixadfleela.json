@@ -1,0 +1,9 @@
+{
+	"name": "netflixadfleela",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2150984a-492f-4131-8034-3bf09d324682",
+		"tenantId": "8ae7ae0e-fad9-4ae7-9f3c-c0881834272b"
+	}
+}
